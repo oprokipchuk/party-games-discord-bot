@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "bot.config.token",
+      "type": "java.lang.String",
+      "description": "Token used to connect to Discord App."
+    }
+  ] }
